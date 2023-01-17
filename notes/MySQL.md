@@ -146,7 +146,7 @@
 
 
 
-## 1. 什么是事务
+## 1. 什么是事务Transaction
 
 <div align="center"><img src="assets/185b9c49-4c13-4241-a848-fbff85c03a64.png" width="400"/></div><br/>
 
